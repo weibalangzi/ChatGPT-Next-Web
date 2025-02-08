@@ -11,7 +11,7 @@ const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
   title: "Bot of Hewei",
-  description: "My personal DeepSeek Chat Bot.",
+  description: "My personal Chat Bot.",
   appleWebApp: {
     title: "NextChat",
     statusBarStyle: "default",
